@@ -6,11 +6,11 @@
 }
 
 :root {
-    --bg-color: #0f172a;       /* Dark slate background */
-    --surface-color: #1e293b;  /* Lighter card background */
-    --accent-color: #38bdf8;   /* Tech electric blue */
-    --text-main: #f8fafc;      /* Crisp white text */
-    --text-muted: #94a3b8;     /* Grayed out text */
+    --bg-color: #3D90FF;      
+    --surface-color: #1e293b;
+    --accent-color: #38bdf8;   
+    --text-main: #000000;      
+    --text-muted: #94a3b8;    
 }
 
 html {
